@@ -4,7 +4,7 @@
     "ident": "poppy_crafting_reinforcement",
     "name": "追加 - ケシ関連のアイテムとレシピを追加",
     "authors": [ "heislandmine" ],
-    "description": "ケシ関連のクラフトを強化するmod。ケシの蕾から種やアヘンを制作できます。アヘンを使ったレシピも追加します。",
+    "description": "ケシ関連のクラフトを強化するmod。ケシの蕾から種やアヘンを制作できます。アヘンを使ったレシピも追加されます。",
     "dependencies": [ "dda" ]
   }
 ]
