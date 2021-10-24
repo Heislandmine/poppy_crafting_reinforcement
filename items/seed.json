@@ -5,6 +5,6 @@
         "type": "COMESTIBLE",
         "name": { "str_sp": "種(ケシ)" },
         "description": "変異したケシの種です。",
-        "seed_data": { "plant_name": "変異したケシ", "fruit": "poppy_bud", "byproducts": [ "withered" ], "grow": "1 days" }
+        "seed_data": { "plant_name": "変異したケシ", "fruit": "poppy_bud", "byproducts": [ "withered" ], "grow": "91 days" }
       }
 ]
