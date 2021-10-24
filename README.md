@@ -17,6 +17,10 @@ Cataclysm: Dark Days Aheadのケシ関連のクラフトを強化するmod。
     - モルヒネ
     - ヘロイン
 
+## 動作環境
+
+安定版0.F-2
+
 ## 導入方法
 
 本modの**poppy_crafting_reinforcement**フォルダをゲーム本体の**mods**フォルダへコピーしてください。
