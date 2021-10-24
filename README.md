@@ -1,4 +1,5 @@
 # poppy_crafting_reinforcement
 
 Cataclysm: Dark Days Aheadのケシ関連のクラフトを強化するmod。
-ケシの蕾から種やアヘンを制作できます。アヘンを使ったレシピも追加されます。
+
+ケシの蕾から種やアヘンを制作できます。また、アヘンを使ったレシピも追加されます。
