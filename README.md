@@ -1,4 +1,4 @@
-# poppy_crafting_reinforcement
+# Poppy Crafting Reinforcement
 
 Cataclysm: Dark Days Aheadのケシ関連のクラフトを強化するmod。
 
