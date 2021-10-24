@@ -1,0 +1,30 @@
+[
+    {
+        "id": "pcr_opium",
+        "type": "COMESTIBLE",
+        "comestible_type": "MED",
+        "name": { "str": "アヘン" },
+        "description": "ケシの実から採取した乳液状の物質を乾燥させた物質。吸引することで、鎮痛効果を得られる。強い依存性がある。",
+        "weight": "1 g",
+        "volume": "250 ml",
+        "price": 1000,
+        "price_postapoc": 6200,
+        "charges": 4,
+        "stack_size": 100,
+        "material": [ "powder" ],
+        "symbol": "!",
+        "color": "light_gray",
+        "stim": -2,
+        "healthy": -1,
+        "fun": 10,
+        "addiction_potential": 15,
+        "addiction_type": "opiate",
+        "flags": [ "NO_INGEST", "IRREPLACEABLE_CONSUMABLE" ],
+        "use_action": {
+          "type": "consume_drug",
+          "activation_message": "アヘンを吸引した。",
+          "tools_needed": { "crackpipe": -1 },
+          "effects": [ { "id": "pkill2", "duration": 120 }, { "id": "pkill1", "duration": 1200 } ]
+        }
+      }
+]
